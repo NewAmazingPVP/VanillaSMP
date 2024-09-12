@@ -1,0 +1,4 @@
+name: VanillaSMP
+version: '${project.version}'
+main: nap.vanillasmp.VanillaSMP
+api-version: '1.21'
